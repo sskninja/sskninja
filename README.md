@@ -114,3 +114,62 @@ Decentralized crowdfunding platform on Ethereum with secure on-chain fund flows.
 <div align="center">
 <sub>Building in Rust, one <code>unsafe</code>-free block at a time.</sub>
 </div>
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sskninja&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sskninja&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sskninja&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sskninja&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskninja&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sskninja/sskninja/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⌨️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🚀 Current Focus
+
+```rust
+fn current_focus() -> Vec<&'static str> {
+    vec![
+        "Distributed Systems",
+        "AI Infrastructure",
+        "Rust Backend Engineering",
+        "Kafka & Flink",
+        "High Performance APIs",
+    ]
+}
+```
